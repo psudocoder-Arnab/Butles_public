@@ -1,0 +1,197 @@
+html{
+    padding: 1%;
+}
+
+body{
+    background-image: url(endless-constellation.png);
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    padding-bottom: 60px;
+}
+
+.text{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.txt_left{
+    float: left;
+    padding-left: 100px;
+}
+
+.txt_cen{
+    margin-left: 39%;
+    margin-right: 39%;
+    text-align: center;
+}
+
+.txt_right{
+    float: right;
+    padding-right: 100px;
+    margin-top: -119.6px;
+}
+
+.pill_alti{
+    color: aliceblue;
+    background-color: rgb(50, 172, 243);
+    border-radius: 6px;
+    padding: 3px,5px;
+}
+
+.bt1-t{
+    background: linear-gradient(315deg, red, pink);
+    border-radius: 10px;
+    box-shadow:7px 7px 10px gray;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.DownloadCSS{
+    background: linear-gradient(315deg, rgb(38, 0, 255), rgb(255, 238, 0));
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+    width: 500px;
+}
+
+.dwn{
+    padding-top: 150pt;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+  
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+.space{
+    padding-top: 300px;
+}
+
+.button_usage_left{
+    margin-left: 30%;
+}
+
+.button_usage_cen{
+    align-self: center;
+}
+
+.button_usage_right{
+    margin-left: 40%;
+}
+
+.bt1-txt{
+    color: rgb(240, 60, 105, 0.938);
+}
+
+.bt2-txt{
+    color: rgb(83, 255, 15);
+    text-align: center; 
+}
+
+.bt3-txt{
+    color: rgb(239, 255, 15);
+    text-align: center; 
+}
+
+.bt4-txt{
+    color: rgba(68, 68, 68, 0.938);
+    text-align: center;
+}
+
+.bt5-txt{
+    color: rgba(173, 48, 167, 0.938);
+    text-align: center;
+}
+
+.bt6-txt{
+    color: rgba(240, 156, 60, 0.938);
+    text-align: center;
+}
+
+.bt7-txt{
+    color: rgba(177, 36, 243, 0.938);
+    text-align: center;
+}
+
+.bt8-txt{
+    color: rgba(211, 16, 201, 0.938);
+    text-align: center;
+}
+
+.bt9-txt{
+    color: rgba(42, 245, 218, 0.938);
+    text-align: center;
+}
+
+.bt10-txt{
+    color: rgba(60, 240, 114, 0.938);
+    text-align: center;
+}
+
+.bt11-txt{
+    color: rgba(255, 115, 0, 0.938);
+    text-align: center;
+}
+
+.bt12-txt{
+    color: purple;
+    text-align: center;
+}
+
+.bt13-txt{
+    color: skyblue;
+    text-align: center;
+}
+
+.bt14-txt{
+    color: rgba(248, 67, 67, 0.884);
+    text-align: center;
+}
+
+.bt15-txt{
+    color: pink;
+    text-align: center;
+}
+
+.RAINBOW-txt{
+    color: a;
+    text-align: center;
+}
+
+.cnr{
+    background: linear-gradient(315deg, indigo,blue,green,yellow,orange,red);
+}
+
+.bt_prpfer{
+    background: linear-gradient(315deg, indigo,blue,green,yellow,orange,red);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}

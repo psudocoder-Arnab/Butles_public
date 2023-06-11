@@ -1,0 +1,198 @@
+a{
+    margin: 10px;
+}
+
+.bt_1{
+    background: linear-gradient(315deg, red, pink);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_2{
+    background: linear-gradient(315deg, yellow, green);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_3{
+    background: linear-gradient(315deg,purple, yellow );
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_4{
+    background: linear-gradient(315deg, black, snow);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_5{
+    background: linear-gradient(315deg, darkmagenta, darkorange);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_6{
+    background: linear-gradient(315deg, indigo, gold, darksalmon );
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_7{
+    background: linear-gradient(345deg, darkblue, chartreuse, darkviolet);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_8{
+    background: linear-gradient(345deg, red, pink, violet);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_9{
+    background: linear-gradient( blue,green);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_10{
+    background: linear-gradient( rgb(255, 208, 0),rgb(128, 26, 0));
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_11{
+    background-color: indigo;
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_12{
+    background-color: skyblue;
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_13{
+    background-color: red;
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_14{
+    background-color: greenyellow;
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_15{
+    background-color: palevioletred;
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bt_prifree{
+    background: linear-gradient(315deg, indigo,blue,green,yellow,orange,red);
+    border-radius: 5px;
+    box-shadow:5px 5px 8px gray;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
